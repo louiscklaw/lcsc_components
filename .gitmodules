@@ -1,0 +1,3 @@
+[submodule "lcsc_connectors"]
+	path = lcsc_connectors
+	url = git@github.com:louiscklaw/lcsc_connectors.git
