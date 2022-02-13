@@ -1,3 +1,120 @@
 [submodule "lcsc_connectors"]
 	path = lcsc_connectors
 	url = git@github.com:louiscklaw/lcsc_connectors.git
+[submodule "lcsc_analog_ics"]
+	path = lcsc_analog_ics
+	url = git@github.com:louiscklaw/lcsc_analog_ics.git
+[submodule "lcsc_battery_products"]
+	path = lcsc_battery_products
+	url = git@github.com:louiscklaw/lcsc_battery_products.git
+[submodule "lcsc_buzzers_speakers_microphones"]
+	path = lcsc_buzzers_speakers_microphones
+	url = git@github.com:louiscklaw/lcsc_buzzers_speakers_microphones.git
+[submodule "lcsc_capacitors"]
+	path = lcsc_capacitors
+	url = git@github.com:louiscklaw/lcsc_capacitors.git
+[submodule "lcsc_circuit_protection"]
+	path = lcsc_circuit_protection
+	url = git@github.com:louiscklaw/lcsc_circuit_protection.git
+[submodule "lcsc_clock_and_timing"]
+	path = lcsc_clock_and_timing
+	url = git@github.com:louiscklaw/lcsc_clock_and_timing.git
+[submodule "lcsc_crystals"]
+	path = lcsc_crystals
+	url = git@github.com:louiscklaw/lcsc_crystals.git
+[submodule "lcsc_crystals_oscillators_resonators"]
+	path = lcsc_crystals_oscillators_resonators
+	url = git@github.com:louiscklaw/lcsc_crystals_oscillators_resonators.git
+[submodule "lcsc_data_converters"]
+	path = lcsc_data_converters
+	url = git@github.com:louiscklaw/lcsc_data_converters.git
+[submodule "lcsc_relays"]
+	path = lcsc_relays
+	url = git@github.com:louiscklaw/lcsc_relays.git
+[submodule "lcsc_filters_emi_optimization"]
+	path = lcsc_filters_emi_optimization
+	url = git@github.com:louiscklaw/lcsc_filters_emi_optimization.git
+[submodule "lcsc_electromechanical_devices_components"]
+	path = lcsc_electromechanical_devices_components
+	url = git@github.com:louiscklaw/lcsc_electromechanical_devices_components.git
+[submodule "lcsc_filters"]
+	path = lcsc_filters
+	url = git@github.com:louiscklaw/lcsc_filters.git
+[submodule "lcsc_embedded_processors_controllers"]
+	path = lcsc_embedded_processors_controllers
+	url = git@github.com:louiscklaw/lcsc_embedded_processors_controllers.git
+[submodule "lcsc_memory"]
+	path = lcsc_memory
+	url = git@github.com:louiscklaw/lcsc_memory.git
+[submodule "lcsc_inductors_coils_transformers"]
+	path = lcsc_inductors_coils_transformers
+	url = git@github.com:louiscklaw/lcsc_inductors_coils_transformers.git
+[submodule "lcsc_optoelectronics"]
+	path = lcsc_optoelectronics
+	url = git@github.com:louiscklaw/lcsc_optoelectronics.git
+[submodule "lcsc_embedded_peripheral_ics"]
+	path = lcsc_embedded_peripheral_ics
+	url = git@github.com:louiscklaw/lcsc_embedded_peripheral_ics.git
+[submodule "lcsc_resistors"]
+	path = lcsc_resistors
+	url = git@github.com:louiscklaw/lcsc_resistors.git
+[submodule "lcsc_power_management_ics"]
+	path = lcsc_power_management_ics
+	url = git@github.com:louiscklaw/lcsc_power_management_ics.git
+[submodule "lcsc_iot_communication_modules"]
+	path = lcsc_iot_communication_modules
+	url = git@github.com:louiscklaw/lcsc_iot_communication_modules.git
+[submodule "lcsc_functional_modules"]
+	path = lcsc_functional_modules
+	url = git@github.com:louiscklaw/lcsc_functional_modules.git
+[submodule "lcsc_logic_ics"]
+	path = lcsc_logic_ics
+	url = git@github.com:louiscklaw/lcsc_logic_ics.git
+[submodule "lcsc_switches"]
+	path = lcsc_switches
+	url = git@github.com:louiscklaw/lcsc_switches.git
+[submodule "lcsc_diodes"]
+	path = lcsc_diodes
+	url = git@github.com:louiscklaw/lcsc_diodes.git
+[submodule "lcsc_interface_ics"]
+	path = lcsc_interface_ics
+	url = git@github.com:louiscklaw/lcsc_interface_ics.git
+[submodule "lcsc_driver_ics"]
+	path = lcsc_driver_ics
+	url = git@github.com:louiscklaw/lcsc_driver_ics.git
+[submodule "lcsc_hardwares_solders_accessories_batteries"]
+	path = lcsc_hardwares_solders_accessories_batteries
+	url = git@github.com:louiscklaw/lcsc_hardwares_solders_accessories_batteries.git
+[submodule "lcsc_display_modules_led_drivers_display_drivers"]
+	path = lcsc_display_modules_led_drivers_display_drivers
+	url = git@github.com:louiscklaw/lcsc_display_modules_led_drivers_display_drivers.git
+[submodule "lcsc_pushbutton_switches_relays"]
+	path = lcsc_pushbutton_switches_relays
+	url = git@github.com:louiscklaw/lcsc_pushbutton_switches_relays.git
+[submodule "lcsc_development_boards_tools"]
+	path = lcsc_development_boards_tools
+	url = git@github.com:louiscklaw/lcsc_development_boards_tools.git
+[submodule "lcsc_inductors_chokes_transformers"]
+	path = lcsc_inductors_chokes_transformers
+	url = git@github.com:louiscklaw/lcsc_inductors_chokes_transformers.git
+[submodule "lcsc_optocouplers_leds_infrared"]
+	path = lcsc_optocouplers_leds_infrared
+	url = git@github.com:louiscklaw/lcsc_optocouplers_leds_infrared.git
+[submodule "lcsc_fuses"]
+	path = lcsc_fuses
+	url = git@github.com:louiscklaw/lcsc_fuses.git
+[submodule "lcsc_others"]
+	path = lcsc_others
+	url = git@github.com:louiscklaw/lcsc_others.git
+[submodule "lcsc_rf_radio"]
+	path = lcsc_rf_radio
+	url = git@github.com:louiscklaw/lcsc_rf_radio.git
+[submodule "lcsc_sensors"]
+	path = lcsc_sensors
+	url = git@github.com:louiscklaw/lcsc_sensors.git
+[submodule "lcsc_solders_accessories_batteries"]
+	path = lcsc_solders_accessories_batteries
+	url = git@github.com:louiscklaw/lcsc_solders_accessories_batteries.git
+[submodule "lcsc_transistors"]
+	path = lcsc_transistors
+	url = git@github.com:louiscklaw/lcsc_transistors.git
